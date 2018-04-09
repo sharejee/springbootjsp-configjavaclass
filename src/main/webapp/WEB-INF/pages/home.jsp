@@ -41,7 +41,6 @@
 <br><br>
 <!-- /top menu -->
 <div id="m_container">
-    <!-- if not using sidebar, only add <dec:body /> in here -->
     <div id="content">
         <div class="row">
             <div class="col-sm-8">
